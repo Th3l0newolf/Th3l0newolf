@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I Fail & Grow Strong**
 
+- 👨‍💻 Links to CTF challanges is available at [https://ctflearn.com/challenge/894](https://ctflearn.com/challenge/894)
+
 ## Technology Stack
 
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
@@ -48,9 +50,6 @@
 ![](https://img.shields.io/badge/Burp%20Suite-%20-green)
 ![](https://img.shields.io/badge/DirBuster-%20-green)
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3l0newolf&show_icons=true&locale=en&layout=compact" alt="th3l0newolf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3l0newolf&show_icons=true&locale=en" alt="th3l0newolf" /></p>
 

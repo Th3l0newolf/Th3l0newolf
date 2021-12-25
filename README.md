@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm th3lonewolf</h1> 
-<h3 align="center">Information Security Enthusiast | CTF Designer & Player | Cyber Security</h3>
+<h3 align="center">Information Security Analyst | CTF Designer & Player | Web Application Security </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3l0newolf&label=Profile%20views&color=0e75b6&style=flat" alt="th3l0newolf" /> </p>
 
 ### About Me🤓
 
-- 🔭 I’m currently working on **Red Team Projects**
+- 🔭 I’m currently working on **Infrastructure Security**
 
 - 🌱 I’m currently learning **Cyber-Security Frameworks[PCI-DSS,ISO 270001]**
 
-- 💬 Ask me about **Cyber Security | Ethical Hacking | Information security Awareness**
+- 💬 Ask me about **Cyber Security | Ethical Hacking | Information security Awareness | Vulnerability Management**
 
 - ⚡ Fun fact **I Fail & Grow Strong**
 

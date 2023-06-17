@@ -7,9 +7,9 @@
 
 ### About Me🤓
 
-- 🔭 I’m currently working on **Infrasec & Appsec**
+- 🔭 I’m currently working on **Application Security**
 
-- 🌱 I’m currently learning **iOS Pentesting**
+- 🌱 I’m currently learning **Build Tools for Appsec**
 
 - 💬 Ask me about **Cyber Security | Information security Awareness | Vulnerability Management | Infrastructure Security**
 

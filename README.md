@@ -7,9 +7,9 @@
 
 ### About Me🤓
 
-- 🔭 I’m currently working on **Application Security**
+- 🔭 I’m currently working on **SubSpy**
 
-- 🌱 I’m currently learning **Build Tools for Appsec**
+- 🌱 I’m currently learning **DevSecops**
 
 - 💬 Ask me about **Cyber Security | Information security Awareness | Vulnerability Management | Infrastructure Security**
 
